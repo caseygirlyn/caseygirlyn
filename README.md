@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <a href="https://girlyncasey.netlify.app/" target="blank">
+ <a href="https://girlyn.com" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-2597cb?style=for-the-badge&logo=medium&logoColor=white" alt="Girlyn Casey" />
  </a>
  <a href="https://girlyn.co.uk/" target="blank">
