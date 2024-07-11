@@ -26,7 +26,11 @@
 
 ## About me
 
-For the past 15 years, I have had the privilege of working in roles that have refined my web development skills. I have successfully managed numerous complex web development projects from inception to completion. I excel in fast-paced environments that demand strategic thinking, collaboration, and adaptability. I take pride in my ability to align teams with the company's vision, manage project scopes and timelines, and deliver high-quality solutions.
+With 15 years of experience in web development, I have honed my skills by managing
+complex projects from start to finish. I thrive in dynamic environments that require strategic
+thinking, collaboration, and adaptability. My expertise lies in aligning teams with the
+company's vision, managing project scopes and timelines, and delivering high-quality
+solutions.
 
 ## Technologies, Frameworks and Libraries
 
