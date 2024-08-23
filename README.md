@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h1 align="center">
-    <samp>Hi!, I am <b><a target="_blank" href="https://girlyncasey.netlify.app/">Girlyn Casey</a></b></samp>
+    <samp>Hi!, I am <b><a target="_blank" href="https://girlyn.com">Girlyn Casey</a></b></samp>
 </h1>
 
 <p align="center"> 
@@ -13,9 +13,9 @@
  <a href="https://girlyn.com" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-2597cb?style=for-the-badge&logo=medium&logoColor=white" alt="Girlyn Casey" />
  </a>
- <!--<a href="https://girlyn.co.uk/" target="blank">
-  <img src="https://img.shields.io/badge/Girlyn.co.uk-20B2AA?style=for-the-badge" alt="Girlyn Casey" />
- </a>-->
+ <a href="https://girlyn.co.uk/" target="blank">
+  <img src="https://img.shields.io/badge/Girlyn.co.uk-20B2AA?style=for-the-badge" alt="Girlyn LTD" />
+ </a>
  <a href="https://www.linkedin.com/in/girlyncasey/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Girlyn Casey"/>
  </a>
